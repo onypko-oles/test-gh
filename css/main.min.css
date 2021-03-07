@@ -1,1 +1,1 @@
-body{padding:50px;background:#000;color:#fff}
+body{display:grid;padding:50px;color:#fff;background:linear-gradient(to bottom,#fff,#000)}.header{background:#fff}.header--success{background-color:green}
